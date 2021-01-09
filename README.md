@@ -67,4 +67,4 @@ Exp2: Chose option:
        Input string: example
        Soundex code for "example" is E251
        
-Step 2. TBD ...
+Step 2. TBD.
