@@ -14,11 +14,11 @@ where 1(ai≠bi) is the indicator function equal to 0 when ai≠bi and equal to 
 
 Algorithm steps for Soundex code are:
 
-Copy the first character of the input string to the first character of the output string
+- Copy the first character of the input string to the first character of the output string
 
-For subsequent characters in the input string, add digits to the output string according to the table below, up to a maximum of three digits (ie. a total output string length of 4). Note that a number of input letters are ignored, including all vowels. Also, further occurences of an input letter with the same encoding are ignored.
+- For subsequent characters in the input string, add digits to the output string according to the table below, up to a maximum of three digits (ie. a total output string length of 4). Note that a number of input letters are ignored, including all vowels. Also, further occurences of an input letter with the same encoding are ignored.
 
-If we reach the end of the input string before the output string reaches 4 characters, pad it to the right with zeros.
+- If we reach the end of the input string before the output string reaches 4 characters, pad it to the right with zeros.
 
 ----Encoding Table----
 
