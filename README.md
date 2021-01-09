@@ -53,6 +53,8 @@ Z	------------ 2 <br />
 3. create main.py and use functions from utils.py
 
 When you run your code this will be printed: <br />
+
+
 Exp1: Chose option: <br />
         1. Levenshtein <br />
         2. Soundex <br />
@@ -60,11 +62,15 @@ Exp1: Chose option: <br />
        First string: kitten <br />
        Seccond string: sitting <br />
        Levenshtein distance for "kitten" and "sitting" is 3 <br />
+       
+       
 Exp2: Chose option: <br />
         1. Levenshtein <br />
         2. Soundex <br />
        Type 1 or 2: 2 <br />
        Input string: example <br />
        Soundex code for "example" is E251 <br />
+       
+       
        
 Step 2. TBD.
