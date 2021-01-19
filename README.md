@@ -84,8 +84,8 @@ Exp.: Choose from options: <br />
         1. Levenshtein <br />
         2. Soundex <br />
         3. Spell correction <br />
-      Type 1, 2 or 3: 3
-      Write misspelled word: sprinq
+      Type 1, 2 or 3: 3 <br />
+      Write misspelled word: sprinq <br />
       Possible options: spring, sprint
  
 
